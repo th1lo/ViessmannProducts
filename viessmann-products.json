@@ -1,0 +1,42 @@
+[
+    {
+        "image": "Vitocal_300-G.jpg",
+        "znumber": "Z019443",
+        "name": "Vitocal 300-G",
+        "typ": "typ BWC 301.C06",
+        "gross": "14.504,00€",
+        "net": "9.427,60€",
+        "availability": "The expected delivery date is calculated in the shopping cart.",
+        "link": null
+    },
+    {
+        "image": "Vitocal_252-A.jpg",
+        "znumber": "Z022217",
+        "name": "Vitocal 252-A",
+        "typ": "AWOT-E-AC 251.A13",
+        "gross": "20.685,00€",
+        "net": "13.445,25€",
+        "availability": "The expected delivery date is calculated in the shopping cart.",
+        "link": "Shop"
+    },
+    {
+        "image": "Vitocal_222-S.jpg",
+        "znumber": "7749599",
+        "name": "Vitocal 222-S",
+        "typ": "AWBT-E 221.C16",
+        "gross": "5.528,90€",
+        "net": null,
+        "availability": "limited availability",
+        "link": "Shop"
+    },
+    {
+        "image": "Vitocal_200-S.jpg",
+        "znumber": "Z015346",
+        "name": "Vitocal 222-S",
+        "typ": "typ AWBT-M-E-AC 221.C04",
+        "gross": "11421",
+        "net": "7423,65",
+        "availability": "limited availability",
+        "link": "Shop"
+    }
+]
